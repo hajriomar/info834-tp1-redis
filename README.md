@@ -41,3 +41,20 @@ Redis commands used:
 ```bash
 docker compose down -v
 docker compose up -d --build
+
+---
+
+## Access
+
+**Web Application:**  
+http://localhost:8000  
+
+**phpMyAdmin:**  
+http://localhost:8080  
+
+---
+
+## Test Account
+
+**Email:** omar@gmail.com  
+**Password:** 123
