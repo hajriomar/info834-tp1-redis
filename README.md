@@ -40,11 +40,11 @@ Redis commands used:
 
 ```bash
 docker compose down -v
-docker compose up -d --build
-
+docker compose up -d --build 
+```
 ---
 
-## Access
+### Access
 
 **Web Application:**  
 http://localhost:8000  
